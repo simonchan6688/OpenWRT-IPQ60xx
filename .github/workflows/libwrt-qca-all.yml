@@ -1,5 +1,5 @@
 #CI项目
-name: lede-qca-all
+name: libwrt-qca-all
 
 #CI计划
 on:
