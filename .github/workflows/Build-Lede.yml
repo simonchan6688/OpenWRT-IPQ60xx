@@ -1,5 +1,5 @@
 #CI项目
-name: lede-qca-all
+name: Build-Lede
 
 #CI计划
 on:
